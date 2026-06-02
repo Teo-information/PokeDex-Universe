@@ -369,9 +369,9 @@ Este proyecto está bajo la licencia **MIT**. Los datos y sprites pertenecen a *
     <td>
       <strong>Tu Nombre</strong><br />
       Desarrollador · SENATI / Reflexo<br /><br />
-      <a href="https://github.com/TU_USUARIO">GitHub</a> ·
-      <a href="https://linkedin.com/in/TU_PERFIL">LinkedIn</a> ·
-      <a href="mailto:tu@email.com">Email</a>
+      <a href="https://github.com/Teo-information">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/cristofer-condor/">LinkedIn</a> ·
+      <a href="teodorocondor03@gmail.com">Email</a>
     </td>
   </tr>
 </table>
