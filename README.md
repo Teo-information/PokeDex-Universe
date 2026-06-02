@@ -367,8 +367,8 @@ Este proyecto está bajo la licencia **MIT**. Los datos y sprites pertenecen a *
 <table>
   <tr>
     <td>
-      <strong>Tu Nombre</strong><br />
-      Desarrollador · SENATI / Reflexo<br /><br />
+      <strong>Cristofer Teodoro</strong><br />
+      Desarrollador Full Stack <br /><br />
       <a href="https://github.com/Teo-information">GitHub</a> ·
       <a href="https://www.linkedin.com/in/cristofer-condor/">LinkedIn</a> ·
       <a href="teodorocondor03@gmail.com">Email</a>
